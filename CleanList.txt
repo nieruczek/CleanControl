@@ -1,0 +1,17 @@
+Monday - High - Go robot - Bedroom: Wash dust - Bedroom: Change bed-clothes
+Monday - Medium - Bedroom: Clean angles - Bedroom: Clean mirrors
+Monday - Low - Bedroom: Wash chandelier - Bedroom: Change curtains - Bedroom: Wash windows
+Tuesday - High - Go robot - Kitchen: Clean stove - Kitchen: Clean shelves - Kitchen: Wash tiles
+Tuesday - Medium - Kitchen: Clean cupboards outside - Kitchen: Clean angles - Kitchen: Clean fridge
+Tuesday - Low - Kitchen: Clean cupboards inside - Kitchen: Clean oven - Kitchen: Change curtains - Kitchen: Wash windows - Kitchen: Wash chandelier
+Wednesday - High - Go robot - Salon: Wash dust - Salon: Clean cupboards outside
+Wednesday - Medium - Salon: Clean balcony - Salon: Clean angles
+Wednesday - Low - Salon: Wash chandelier - Salon: Wash cupboards inside - Salon: Wash windows - Salon: Change curtains
+Thursday - High - Go robot - Corridor: Wash Shoes shelf
+Thursday - Medium - Corridor: Clean wardrobes outside - Corridor: Clean doors - Corridor: Clean angles
+Thursday - Low - Corridor: Clean wardrobes inside - Corridor: Wash chandelier
+Friday - High - Go robot - Bathroom: Wash dust - Bathroom: Clean sinks - Bathroom: Clean bath - Bathroom: Wash mirror
+Friday - Medium - Bathroom: Clean cupboards - Bathroom: Wash tiles - Bathroom: Wash bath curtain - Bathroom: Clean angles
+Friday - Low - Bathroom: Clean window - Bathroom: Change curtain - Bathroom: Wash chandeliers
+Saturday - High - Go robot
+Sunday - High - Go robot
